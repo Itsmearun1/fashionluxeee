@@ -1,13 +1,16 @@
-Fashionluxe-Catherine's Website Clone
+*Fashionluxe-Catherine's Website Clone*
 This is a clone of the Catherine's website, an American retailer that specializes in plus-size clothing for women. The purpose of this project is to showcase my skills in web development and design, as well as to provide an example of how to build an e-commerce website from scratch.
 
-Technologies Used
+*Deployed Link*
+https://fashionluxe.netlify.app/
+
+*Technologies Used*
 HTML
 CSS
 JavaScript
 Google Fonts
 
-Features
+*Features*
 Navigation menu that allows users to browse products by category.
 Search bar that allows users to find products by keyword.
 Shopping cart that allows users to add and remove items.
